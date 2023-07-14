@@ -52,7 +52,7 @@ public class Client {
                 out.flush();
               } catch (Exception e) {
                 // TODO: handle exception
-                e.printStackTrace();
+                e.
               }}
         };
         new Thread(r2).start();
